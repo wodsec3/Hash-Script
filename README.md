@@ -1,2 +1,2 @@
 # Hash-Script
-Hash Any String and Integer . . .
+Hash Generator . .
